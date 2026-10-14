@@ -38,3 +38,4 @@ Based off [azedo/raindrop-io-github-starred-repos](https://github.com/azedo/rain
 1. Fork this repository
 2. Set up the tokens you generated above and define them as Action secrets
 3. That (should) be it, the workflow will run every hour
+
